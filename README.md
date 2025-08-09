@@ -1,5 +1,6 @@
 # Project 
 - classif-bank-dataset-graphviz-gain-lift-chart
+-   <img width="240" height="240" alt="dataset-thumbnail" src="https://github.com/user-attachments/assets/621ad17c-07a5-415d-92f9-c8175a747429" />
 # Objective
 - Predict customers who are likely to cancel (churn) their Colab paid product contracts within the next 30 days and provide a prioritized list that marketing/support can act on to maximize retained revenue.
 ### Measurable goals:
